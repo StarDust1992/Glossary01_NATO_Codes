@@ -1,2 +1,2 @@
 # Single_Web_Pages_PHP
-Glossary using PHP.
+Different Single Pages of PHP Project
