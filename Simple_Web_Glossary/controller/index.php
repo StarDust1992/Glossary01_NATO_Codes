@@ -32,7 +32,7 @@ $pronounce = [" AL FAH " , " BRAH VOH " , " CHAR LEE " , " DELL TAH " , " ECK OH
 " ROW ME OH " , " SEE AIRRAH " , " TANG OH " , " YOU NEE FORM " , " VIK TAH " ,
 " WISS KEY " , " ECKS RAY " , " YANG KEY " , " ZOO LOO "];
 
-$title ="NATO CODES";
+$title ="Alphabetic Codes";
 
 view("index", $title);
 
